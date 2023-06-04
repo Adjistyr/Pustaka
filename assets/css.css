@@ -1,0 +1,24 @@
+/* https://codepen.io/enxaneta/full/adLPwv/ */
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    min-height: 95vh;
+    flex-grow: 1;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+}
+
+#font1 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#font2 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+td {
+    padding-right: 10px;
+    padding-bottom: 10px;
+  }
